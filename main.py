@@ -1,3 +1,3 @@
-print("Hello World!")
 
-input("Was the git test successful? \n")
+print("Hello World!")
+# input("Was the git test successful?")
